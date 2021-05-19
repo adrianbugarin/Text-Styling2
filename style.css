@@ -1,0 +1,22 @@
+
+.head1{
+    background-color: black;
+    color: white;
+
+}
+.cloud{
+    color: rgb(4,254,254);
+}
+
+.head2{
+    background-color: rgb(101,51,153);
+    color: white;
+    text-align: center;
+}
+
+.head3{
+    background-color: lightblue;
+    text-align: right;
+    text-decoration: underline;
+    
+}
